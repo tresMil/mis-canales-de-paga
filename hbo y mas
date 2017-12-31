@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1,iptvtools_1
+http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_2
+http://servicioamerica.com:1935/8022/8022/chunklist_w50700931.m3u8
+#EXTINF:-1,iptvtools_3
+http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/chunklist_b1098304_sles.m3u8
+#EXTINF:-1,iptvtools_4
+http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/chunklist_b1098304_sles.m3u8
+#EXTINF:-1,iptvtools_5
+http://d2f1bbn9v49he.cloudfront.net/cr/canal2/smil:v2.smil/chunklist_b1098304_sles.m3u8
+#EXTINF:-1,iptvtools_6
+http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w588013183.m3u8
+#EXTINF:-1,iptvtools_7
+http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/chunklist_w602884123.m3u8
+#EXTINF:-1,iptvtools_8
+http://162.213.123.181:1935/sertv/live/chunklist_w548439273.m3u8
+#EXTINF:-1,iptvtools_9
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1790447454_b1300000_slesp.m3u8
+#EXTINF:-1,Latino: De Pelicula HD
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/30.m3u8
+#EXTINF:-1,iptvtools_11
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:-1,iptvtools_12
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,iptvtools_13
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8
+#EXTINF:-1,iptvtools_14
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1,iptvtools_15
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTINF:-1,iptvtools_16
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1,iptvtools_17
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(03)/index.m3u8
+#EXTINF:-1,iptvtools_18
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(04)/index.m3u8
+#EXTINF:-1,iptvtools_19
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/Stream(03)/index.m3u8
+#EXTINF:-1,iptvtools_20
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/Stream(04)/index.m3u8
+#EXTINF:-1,iptvtools_21
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/Stream(04)/index.m3u8
+#EXTINF:-1,iptvtools_22
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+#EXTINF:-1,iptvtools_23
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8
+#EXTINF:-1,iptvtools_24
+http://wowzacontrol.com:1935/stream34/stream34/chunklist_w828804215.m3u8
+#EXTINF:-1,iptvtools_25
+http://s5.mexside.net:1935/telemax_1/telemax_1/chunklist_w353104698.m3u8
+#EXTINF:-1,iptvtools_26
+http://st2.worldkast.com/8020/smil:8020.smil/chunklist_w567953813_b800000.m3u8
+#EXTINF:-1,iptvtools_27
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+#EXTINF:-1,Latino: History HD
+http://185.152.66.150:25461/live/culturales/fanstvapp/74.m3u8
+#EXTINF:-1,Latino: Animal Planet
+http://185.152.66.150:25461/live/culturales/fanstvapp/75.m3u8
+#EXTINF:-1,Latino: Discovery Channel
+http://185.152.66.150:25461/live/culturales/fanstvapp/71.m3u8
+#EXTINF:-1,Latino: DISCOVERY SCIENCE.
+http://185.152.66.150:25461/live/culturales/fanstvapp/70.m3u8
+#EXTINF:-1,Latino: Discovery Turbo
+http://185.152.66.150:25461/live/culturales/fanstvapp/69.m3u8
+#EXTINF:-1,iptvtools_33
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+#EXTINF:-1,Latino: H2
+http://185.152.66.150:25461/live/culturales/fanstvapp/68.m3u8
+#EXTINF:-1,Latino: NatGeo Wild HD
+http://185.152.66.150:25461/live/culturales/fanstvapp/73.m3u8
+#EXTINF:-1,Latino: BOOMERANG
+http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
+#EXTINF:-1,Latino: Disney Channel
+http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8
+#EXTINF:-1,Latino: Disney Junior
+http://185.152.66.150:25461/live/infantiles/fanstvapp/60.m3u8
+#EXTINF:-1,Latino: Disney XD
+http://185.152.66.150:25461/live/infantiles/fanstvapp/59.m3u8
+#EXTINF:-1,ES: Boing
+http://185.152.66.150:25461/live/infantiles/fanstvapp/65.m3u8
+#EXTINF:-1,Latino: TIIN
+http://185.152.66.150:25461/live/infantiles/fanstvapp/54.m3u8
+#EXTINF:-1,Latino: TOONCAST
+http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
+#EXTINF:-1,Latino: AMC
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
+#EXTINF:-1,Latino: Cinecanal
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
+#EXTINF:-1,Latino: CINEMAX
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/32.m3u8
+#EXTINF:-1,Latino: Fox Action HD
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
+#EXTINF:-1,Latino: HBO
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
+#EXTINF:-1,Latino: HBO 2
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
+#EXTINF:-1,Latino: Space HD
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
+#EXTINF:-1,Latino: STUDIO UNIVERSAL
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/19.m3u8
+#EXTINF:-1,iptvtools_51
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(02)/index.m3u8
+#EXTINF:-1,iptvtools_52
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,iptvtools_53
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(07)/index.m3u8
+#EXTINF:-1,ES: Bein Sport HD
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/49.m3u8
+#EXTINF:-1,ES: EUROSPORT 1
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/44.m3u8
+#EXTINF:-1,Latino: WIN SPORT HD
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
+#EXTINF:-1,iptvtools_59
+http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/Stream(04)/index.m3u8
+#EXTINF:-1,ES:Canal  LIGA HD
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/41.m3u8
+#EXTINF:-1,ES : movistar Futbol
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/39.m3u8
